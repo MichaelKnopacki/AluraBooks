@@ -32,3 +32,5 @@
 * Reutilizar elementos e estilos;
 * Criar listas;
 * Editar input e seu placeholder
+
+-> Selecionando Media Queries
