@@ -34,3 +34,7 @@
 * Editar input e seu placeholder
 
 -> Selecionando Media Queries
+
+Layout 428:
+
+![image](https://github.com/MichaelKnopacki/AluraBooks/assets/77402918/6c0170a7-ce2a-41bc-84e9-b8c4ded8ab2f)
