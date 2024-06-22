@@ -5,11 +5,16 @@
     justify-content: space-between;
     align-items: center;
     position: relative;
+    padding: 0.5em 2em;
 }
 
 .container{
     display: flex;
     align-items: center;
+}
+
+.container__texto{
+    display: none;
 }
 
 .container__imagem, .container__imagem__favoritos{
@@ -69,6 +74,10 @@
 
 @media screen and (min-width:1024px){
 
+    .container__texto{
+        display: none;
+    }
+
     .cabecalho_span{
         display: none;
     }
@@ -118,4 +127,13 @@
         display: none;
     }
 
+@media screen and (min-width: 1728px){
+    
+    .container__texto{
+        display: block;
+        text-decoration: none;
+        color: var(--preto);
+        font-family: var(--font-text);
+    }
+}
 }
