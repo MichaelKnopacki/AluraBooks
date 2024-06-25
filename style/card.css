@@ -63,8 +63,29 @@
 @media screen and (min-width:1024px) {
 
     .card{
-        width: 40%;
-        margin: 2em auto;
+
     }
+
+}
     
+@media screen and (min-width:1728px){
+
+    .card{
+        margin-left: 2em;
+        width: 35em;
+        height: 20em;
+        margin-top: 2.5em;
+    }
+
+    .card__descricao__texto{
+        font-size: 32px ;
+    }
+
+    .card__titulo{
+        font-size: 18px ;
+    }
+
+    .card__texto{
+        font-size: 16px;
+    }
 }

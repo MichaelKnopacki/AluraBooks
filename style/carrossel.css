@@ -41,4 +41,22 @@
     display: block;
 }
 
+@media screen and (min-width: 1728px){
+
+.carrossel__container{
+    display: flex;
+    margin: 5em 3em ;
+    align-items: center;
+}
+
+.swiper{
+    width: 50%;
+}
+
+.swiper-pagination{
+    margin: 0.5em 0;
+}
+
+}
+
 }
