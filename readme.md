@@ -39,3 +39,6 @@
 * Retirar elementos da tela;
 * Aplicar elementos na tela de acordo com o tamanho do dispositivo.
 
+->Produzindo CSS no desktop
+* Aplicar estilos com media queries diferentes;
+* Usar estilos diferentes no mesmo elemento com pseudo-classes.
